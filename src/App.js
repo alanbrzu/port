@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <h1>kek</h1>;
+  return (
+    <div>
+      <h1>Alan Brzuszko Portfolio</h1>
+    </div>
+  );
 }
 
 export default App;
